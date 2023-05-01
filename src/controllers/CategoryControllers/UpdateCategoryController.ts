@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 
-import { UpdateCategoryService } from "../services/CategoryService/UpdateCategoryService";
+import { UpdateCategoryService } from "../../services/CategoryServices/UpdateCategoryService";
 
 export class UpdateCategoryController {
   async handle(request: Request, response: Response) {
