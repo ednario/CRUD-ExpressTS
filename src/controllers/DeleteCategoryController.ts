@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 
-import { DeleteCategoryService } from "../services/DeleteCategoryService";
+import { DeleteCategoryService } from "../services/CategoryService/DeleteCategoryService";
 
 export class DeleteCategoryController {
   async handle(request: Request, response: Response) {
