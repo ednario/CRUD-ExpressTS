@@ -18,6 +18,7 @@
       "@typescript-eslint"
   ],
   "rules": {
+    "consistent-return": "off",
     "no-use-before-define": "off",
     "class-methods-use-this": "off",
     "lines-between-class-members": "off",
