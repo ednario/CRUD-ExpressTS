@@ -23,7 +23,7 @@ Para Executar a API você precisará ter:
 1° clonar o repositório</br>
 2° rode o comando npm i ou yarn</br>
 3° criar um banco de dados postgresql</br>
-4° crie um arquivo .env na raiz do projeto</br>
+4° crie um arquivo ```.env``` na raiz do projeto</br>
 5° copie e cole as variáveis a seguir</br>
 
 ```TYPEORM_HOST = "HOST DO BANCO"
@@ -39,6 +39,6 @@ TYPEORM_ENTITIES_DIR = src/entities
 ```
 
 6° preencha o primeiros 5 campos com os dados referente aos do seu DB</br>
-7° execute o comando ```npm run typeorm migration:run ou yarn typeorm migration:run```</br>
-8° rode o projeto com o comando ```npm run dev ou yarn dev```</br>
-9° utilize a função de importar no Insomnia e import o arquivo CRUD_MT.json ele possui todas as todas da API pre configuradas</br>
+7° execute o comando ```npm run typeorm migration:run``` ou ```yarn typeorm migration:run```</br>
+8° rode o projeto com o comando ```npm run dev``` ou ```yarn dev```</br>
+9° utilize a função de importar no Insomnia e import o arquivo ```CRUD_MT.json``` ele possui todas as todas da API pre configuradas</br>
