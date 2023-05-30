@@ -5,7 +5,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 - [NodeJS](https://nodejs.org/pt-br/)
 - [ExpressJS](https://expressjs.com/)
 - [PostgreSQL](https://www.postgresql.org/)
-- [Sequelize](https://typeorm.io/)
+- [TypeORM](https://typeorm.io/)
 - [Vs Code](https://code.visualstudio.com/)
 
 ### Requisitos
